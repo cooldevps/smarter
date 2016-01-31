@@ -1,5 +1,1 @@
-
-This is not my test
-
-
-thisis test
+Technical analysis document link:
